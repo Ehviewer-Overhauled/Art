@@ -1,0 +1,1 @@
+Some art files which used in docs.
